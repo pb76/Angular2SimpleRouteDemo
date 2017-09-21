@@ -1,0 +1,11 @@
+<p>
+  detail works!
+</p>
+<ul>
+  <li [hidden]="teacherId!=i" *ngFor="let person of teachers; let i = index">
+    <h2>{{ person.name }}</h2>
+    <h3>{{ person.area }}</h3>
+    <p>{{ person.bio }}</p>
+  </li>
+</ul>
+<a href="/">Back</a>

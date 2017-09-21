@@ -1,0 +1,6 @@
+<p>
+  list works!
+</p>
+<ul>
+  <li *ngFor="let person of teachers; let i = index"><a [routerLink]="['/detail', i]">{{ person.name }}</a></li>
+</ul>

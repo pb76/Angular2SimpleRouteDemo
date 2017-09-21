@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Patrik Bernhardsson",
+        "shortname": "patrik_bernhardsson",
+        "area": "HTML/CSS",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt tellus et consectetur bibendum. Praesent in imperdiet elit. Aliquam ac nisl bibendum, condimentum tortor et, tincidunt erat. Nam luctus efficitur feugiat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque accumsan bibendum nulla. Aliquam sit amet auctor lorem. Morbi vehicula turpis eu eros fringilla dapibus. Donec vitae iaculis lacus, at mattis est. Sed imperdiet sem vel dolor consectetur gravida. Integer elementum accumsan ante sit amet sollicitudin. Nulla facilisi. In sed bibendum dolor, id volutpat urna. Mauris sollicitudin nunc ac massa tempus laoreet. Quisque rhoncus, est tristique posuere faucibus, mi nisi sagittis purus, in pharetra massa leo non ligula. Suspendisse eu enim fermentum, tincidunt diam sed, posuere purus."
+    },
+    {
+        "name": "Christian Ohlsson",
+        "shortname": "christian_ohlsson",
+        "area": "HTML/CSS",
+        "bio": "Maecenas orci velit, ultrices at euismod sit amet, elementum in dui. Proin eget turpis lorem. In quis dolor id erat elementum suscipit eget in lacus. Ut volutpat in sem ut lacinia. Cras dapibus diam et enim bibendum ultricies. Nunc fringilla pharetra lacus et pellentesque. Morbi lacinia turpis eros, vel ultrices nulla porttitor non. Fusce eget maximus ex, sed bibendum mauris. Curabitur vel posuere dui. Nullam ipsum odio, imperdiet non tempor eu, feugiat sed elit. Aliquam malesuada molestie nunc, sed rhoncus lectus faucibus varius. Etiam vel dignissim tellus, sagittis dictum dui. Nullam dictum risus non nisl malesuada luctus eu finibus justo. In hac habitasse platea dictumst. Vestibulum gravida interdum nibh, non pharetra justo eleifend in. Nulla porta, lorem id consectetur volutpat, elit dui imperdiet libero, id commodo tellus lacus et libero."
+    },
+    {
+        "name": "Stefan Nilsson",
+        "shortname": "stefan_nilsson",
+        "area": "HTML/CSS/UX",
+        "bio": "Praesent augue arcu, vestibulum id volutpat at, fermentum at metus. Nulla vulputate pretium ante, nec accumsan sem ornare vitae. In cursus finibus sapien eu malesuada. Donec dapibus tempor erat. Fusce nec tincidunt turpis. Nullam vitae consectetur felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum a sagittis ante. Duis quis vestibulum magna. Aliquam rutrum nibh at libero tristique, in malesuada diam convallis. Cras ut eros lacinia, dignissim nunc sit amet, dictum est. Aenean at sapien ultrices, fringilla quam et, scelerisque dolor. Nullam consequat aliquam congue. Sed pretium metus quis mauris porttitor, eget rhoncus dui condimentum. Sed efficitur consectetur pretium."
+    }
+]
